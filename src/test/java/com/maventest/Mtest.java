@@ -19,4 +19,14 @@ public class Mtest {
         //assertEquals(5,m.addNum(2, 3));
         Assert.assertEquals(5,m.addNum(2,3));
     }
+
+    @Test
+    public void testAdd_fail() throws IOException {
+        ClassPathXmlApplicationContext context = new ClassPathXmlApplicationContext("M.xml");
+        context.start();
+        //System.in.read();
+        M m = (M)context.getBean("m");
+        //assertEquals(5,m.addNum(2, 3));
+        Assert.assertEquals(6,m.addNum(2,3));
+    }
 }
