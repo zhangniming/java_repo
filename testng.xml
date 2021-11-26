@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd"><suite name="All Test Suite"><test verbose="2" preserve-order="true" name="C:/Users/T490S/IdeaProjects/maventest/src/test"><classes><class name="com.maventest1.Mtest1"><methods><include name="testAdd"/></methods></class><class name="com.maventest.Mtest"><methods><include name="testAdd"/></methods></class></classes></test></suite>
