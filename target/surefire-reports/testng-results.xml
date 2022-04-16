@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="All Test Suite" duration-ms="1762" started-at="2021-11-27T08:18:26Z" finished-at="2021-11-27T08:18:28Z">
+  <suite name="All Test Suite" duration-ms="3154" started-at="2021-11-28T06:39:29Z" finished-at="2021-11-28T06:39:32Z">
     <groups>
     </groups>
-    <test name="C:/Users/T490S/IdeaProjects/maventest" duration-ms="1762" started-at="2021-11-27T08:18:26Z" finished-at="2021-11-27T08:18:28Z">
+    <test name="C:/Users/T490S/IdeaProjects/maventest" duration-ms="3154" started-at="2021-11-28T06:39:29Z" finished-at="2021-11-28T06:39:32Z">
       <class name="com.maventest.Mtest">
-        <test-method status="PASS" signature="testAdd()[pri:0, instance:com.maventest.Mtest@3afae281]" name="testAdd" duration-ms="1683" started-at="2021-11-27T16:18:26Z" finished-at="2021-11-27T16:18:28Z">
+        <test-method status="PASS" signature="testAdd()[pri:0, instance:com.maventest.Mtest@1eb6e1c]" name="testAdd" duration-ms="3137" started-at="2021-11-28T14:39:29Z" finished-at="2021-11-28T14:39:32Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- testAdd -->
